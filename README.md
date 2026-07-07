@@ -53,6 +53,7 @@ _Copyright (c) 2014-2026 Ramon Santamaria ([@raysan5](https://github.com/raysan5
 
 ### Description
 
+Foo
 $(Your Game Description)
 
 ### Features
