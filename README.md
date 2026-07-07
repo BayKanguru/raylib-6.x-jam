@@ -62,6 +62,8 @@ $(Your Game Description)
  - $(Game Feature 02)
  - $(Game Feature 03)
 
+bar
+
 ### Controls
 
 Keyboard:
